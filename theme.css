@@ -1,0 +1,40 @@
+body {
+  background: linear-gradient(to bottom, #ffe6f0, #e6f7ff);
+  color: #333;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+header, footer {
+  background-color: #ffccf9;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+a {
+  color: #ff66cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.profile-card {
+  background: #ffffffaa;
+  border: 2px solid #ffccf9;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+button {
+  background-color: #ff99cc;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ff66aa;
+}
